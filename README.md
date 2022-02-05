@@ -3,7 +3,7 @@
 ## Overview
 Wordleで使う単語を検索できます。
 
-[behaviour](./img/behaviour.gif)
+![behaviour](https://raw.githubusercontent.com/RT-EGG/leword_vocab/main/img/behaviour.gif)
 
 **使用している辞書に、答えである単語が含まれることは保証しません。**  
 **Wordleの本来の楽しさを損なう恐れがあります。使わないで十分にクリアできる語彙力がほしいですね。**
